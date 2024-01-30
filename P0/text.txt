@@ -1,0 +1,6 @@
+texto...
+
+Este es un fichero de texto  
+Ejemplo de como añadirlo al repositorio
+
+
